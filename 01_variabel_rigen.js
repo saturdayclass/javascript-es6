@@ -18,3 +18,10 @@ c = 'd';
 
 console.log(c);
 
+let d = 'f';
+d = 'g';
+
+console.log(d);
+
+// Ini adalah Perubahan
+
